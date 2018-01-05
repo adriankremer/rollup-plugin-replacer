@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-replacer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a rollup plugin to replace strings in generated bundles",
   "main": "dist/rollup-plugin-replacer.cjs.js",
   "module": "dist/rollup-plugin-replacer.es.js",
@@ -22,7 +22,7 @@
     "dist",
     "README.md"
   ],
-  "repository": "adriankremer/rollup-plugin-replace",
+  "repository": "adriankremer/rollup-plugin-replacer",
 	"keywords": [
 		"replace",
     "rollup",
