@@ -4,10 +4,10 @@
     <a href="LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="Software License" />
     </a>
-    <a href="https://github.com/differui/rollup-plugin-sass/issues">
+    <a href="https://github.com/adriankremer/rollup-plugin-replacer/issues">
         <img src="https://img.shields.io/github/issues/adriankremer/rollup-plugin-replacer.svg" alt="Issues" />
     </a>
-    <a href="https://npmjs.org/package/rollup-plugin-sass">
+    <a href="https://npmjs.org/package/rollup-plugin-replacer">
         <img src="https://img.shields.io/npm/v/rollup-plugin-replacer.svg?style=flat-squar" alt="NPM" />
     </a>
     <a href="https://travis-ci.org/adriankremer/rollup-plugin-replacer">
