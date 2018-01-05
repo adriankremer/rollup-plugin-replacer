@@ -1,0 +1,34 @@
+{
+  "name": "rollup-plugin-replacer",
+  "version": "1.0.2",
+  "description": "a rollup plugin to replace strings in generated bundles",
+  "main": "dist/rollup-plugin-replacer.cjs.js",
+  "module": "dist/rollup-plugin-replacer.es.js",
+  "author": "Adrian Kremer <a.kr3mer@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "pretest": "npm run build",
+    "build": "rollup -c",
+    "prebuild": "rm -rf dist/*"
+  },
+  "devDependencies": {
+    "rollup": "^0.53.3"
+  },
+  "dependencies": {
+    "rollup-pluginutils": "^2.0.1"
+  },
+	"files": [
+    "src",
+    "dist",
+    "README.md"
+  ],
+  "repository": "adriankremer/rollup-plugin-replace",
+	"keywords": [
+		"replace",
+    "rollup",
+    "rollup-plugin",
+    "es2015",
+    "npm",
+    "modules"
+  ]
+}
