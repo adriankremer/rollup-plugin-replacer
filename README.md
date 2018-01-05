@@ -38,10 +38,10 @@ export default {
   // ...
   plugins: [
     replacer({
-			replace: {
-				'../fonts': 'fonts',
-				'../img': path.join(mediapath, 'img')
-			}
+      replace: {
+        '../fonts': 'fonts',
+        '../img': path.join(mediapath, 'img')
+      }
      })
   ]
 };
